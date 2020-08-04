@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="653.065" height="153.996">
+  <g font-weight="400" font-family="sans-serif" letter-spacing="0" word-spacing="0">
+    <text style="line-height:125%" x="126.429" y="105.934" font-size="180" transform="translate(-102.669 -13.854)">
+      <tspan x="126.429" y="105.934" style="-inkscape-font-specification:'ubuntu Medium Italic'" font-style="italic" font-weight="500" font-size="80" font-family="ubuntu"><tspan fill="#505050">bitcoin</tspan><tspan fill="#afafaf">unlimited</tspan></tspan>
+    </text>
+    <text style="line-height:125%" x="425.431" y="137.362" font-size="50" fill="#009d00" transform="translate(-102.669 -13.854)">
+      <tspan x="425.431" y="137.362" style="-inkscape-font-specification:Ubuntu" font-size="32.5" font-family="Ubuntu">Bitcoin Cash Edition</tspan>
+    </text>
+  </g>
+</svg>
